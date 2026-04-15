@@ -1,0 +1,58 @@
+export const templates = [
+  {
+    id: 1,
+    name: "Angela Minimalist",
+    category: "Minimalist",
+    preview: "/templates/angela-minimalist-4.png",
+    file: "/templates/angela-minimalist-4.pdf",
+  },
+  {
+    id: 2,
+    name: "Bryan Simple",
+    category: "Minimalist",
+    preview: "/templates/bryan-simple-6.png",
+    file: "/templates/bryan-simple-6.pdf",
+  },
+  {
+    id: 3,
+    name: "David Compact",
+    category: "Minimalist",
+    preview: "/templates/david-compact-8.png",
+    file: "/templates/david-compact-8.pdf",
+  },
+  {
+    id: 4,
+    name: "David Elegant",
+    category: "Executive",
+    preview: "/templates/david-elegant-5.png",
+    file: "/templates/david-elegant-5.pdf",
+  },
+  {
+    id: 5,
+    name: "David Modern",
+    category: "Executive",
+    preview: "/templates/david-modern-2.png",
+    file: "/templates/david-modern-2.pdf",
+  },
+  {
+    id: 6,
+    name: "David Professional",
+    category: "Professional",
+    preview: "/templates/david-professional-1.png",
+    file: "/templates/david-professional-1.pdf",
+  },
+  {
+    id: 7,
+    name: "Margaret Colorful",
+    category: "Creative",
+    preview: "/templates/margaret-colorful-7.png",
+    file: "/templates/margaret-colorful-7.pdf",
+  },
+  {
+    id: 8,
+    name: "Margaret Creative",
+    category: "Creative",
+    preview: "/templates/margaret-creative-3.png",
+    file: "/templates/margaret-creative-3.pdf",
+  },
+]

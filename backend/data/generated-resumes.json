@@ -1,0 +1,1884 @@
+[
+  {
+    "id": "local-resume-1773935559550-17jv3ov8",
+    "linkedin_url": null,
+    "github_url": "https://github.com/fallback-check",
+    "job_description": "jd",
+    "linkedin_data": {},
+    "github_data": {},
+    "generated_resume_markdown": "# test",
+    "ats_score": 1,
+    "ats_analysis": {
+      "ok": true
+    },
+    "created_at": "2026-03-19T15:52:39.550Z"
+  },
+  {
+    "id": "local-resume-1773936054066-il8lar6y",
+    "linkedin_url": null,
+    "github_url": "https://github.com/Abinphilipanil",
+    "job_description": "job role as java developer\n",
+    "linkedin_data": {
+      "name": "ABIN PHILIP ANIL",
+      "headline": "Computer Science Undergrad ’27 | AI & Cloud Enthusiast | Aspiring Software Engineer | Azure • Python • Web Development",
+      "email": "abinanilphilip@gmail.com",
+      "phone": "9497464373",
+      "location": "Kozhenchery, Kerala, India",
+      "website": "abinphilipanil.github.io/",
+      "linkedin_url": "www.linkedin.com/in/abinphilipanila1b007",
+      "summary": "I am a passionate Computer Science Engineering undergraduate with a strong interest in software development, artificial intelligence, cloud computing, and cybersecurity. I enjoy transforming ideas into real-world solutions through clean, efficient code and hands-on projects. My learning journey includes practical experience with Microsoft Azure, AI workflows, and Python-based applications. Through internships and self-driven learning, I have developed a solid foundation in AI concepts, cloud deployment, front-end development, and ethical technology practices. I am highly motivated, adaptable, and always eager to learn emerging technologies. I am currently seeking internships, project collaborations, and learning opportunities where I can grow as a developer and contribute meaningfully to innovative teams.",
+      "skills": {
+        "technical": [
+          "Azure",
+          "Python",
+          "Web Development",
+          "Supabase",
+          "Java",
+          "AI",
+          "Cloud Computing"
+        ],
+        "soft": [
+          "Problem-solving",
+          "Adaptability",
+          "Teamwork",
+          "Communication"
+        ],
+        "tools": [
+          "Microsoft Azure",
+          "Python"
+        ]
+      },
+      "experience": [
+        {
+          "title": "Tech Volunteer",
+          "company": "Open Source Quest",
+          "duration": "January 2026 - Present (3 months)",
+          "description": "Gained hands-on experience with Microsoft Azure for AI and data science applications, learned end-to-end AI workflows, cloud deployment concepts, and ethical AI practices, completed structured learning milestones independently, strengthening problem-solving skills, and built a strong foundation in cloud-based AI solutions"
+        },
+        {
+          "title": "Internship Trainee",
+          "company": "Microsoft initiatives",
+          "duration": "May 2025 - June 2025 (2 months)",
+          "description": "Gained hands-on experience with Microsoft Azure for AI and data science applications, learned end-to-end AI workflows, cloud deployment concepts, and ethical AI practices"
+        },
+        {
+          "title": "Internship Trainee",
+          "company": "TeckSaksham",
+          "duration": "February 2025 - March 2025 (2 months)",
+          "description": "Participated in AI: Transformative Learning, a CSR initiative by Microsoft & SAP, implemented by Edunet Foundation, designed and implemented a Personal Fitness Tracker using Python, and strengthened understanding of data handling, logic building, and real-world problem-solving using AI concepts"
+        }
+      ],
+      "education": [
+        {
+          "degree": "Computer Science and Engineering",
+          "institution": "Sree Buddha College of Engineering",
+          "years": "2023 - 2027",
+          "grade": null
+        },
+        {
+          "degree": "Higher Secondary Education",
+          "institution": "GPHSS Kulanada",
+          "years": "March 2021 - March 2023",
+          "grade": null
+        },
+        {
+          "degree": "High School",
+          "institution": "St.johns school keerukuzhy",
+          "years": null,
+          "grade": null
+        }
+      ],
+      "projects": []
+    },
+    "github_data": {
+      "profile": {
+        "login": "Abinphilipanil",
+        "name": null,
+        "bio": null,
+        "location": null,
+        "blog": null,
+        "company": null,
+        "email": null,
+        "followers": 0,
+        "following": 1,
+        "publicRepos": 23,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/149844177?v=4",
+        "htmlUrl": "https://github.com/Abinphilipanil"
+      },
+      "topRepositories": [
+        {
+          "name": "AR-10",
+          "htmlUrl": "https://github.com/Abinphilipanil/AR-10",
+          "description": null,
+          "language": "JavaScript",
+          "stars": 0,
+          "forks": 1,
+          "topics": [],
+          "updatedAt": "2026-03-17T14:58:29Z"
+        },
+        {
+          "name": "AI-based-ATS",
+          "htmlUrl": "https://github.com/Abinphilipanil/AI-based-ATS",
+          "description": "An Applicant Tracking System is recruitment software that:  Parses and scores resumes based on job requirements  Filters candidates using keyword matching  Ranks applicants before human review ",
+          "language": "Python",
+          "stars": 0,
+          "forks": 0,
+          "topics": [],
+          "updatedAt": "2026-02-24T13:35:30Z"
+        },
+        {
+          "name": "automatedresume-10",
+          "htmlUrl": "https://github.com/Abinphilipanil/automatedresume-10",
+          "description": null,
+          "language": "JavaScript",
+          "stars": 0,
+          "forks": 0,
+          "topics": [],
+          "updatedAt": "2026-02-22T02:02:16Z"
+        },
+        {
+          "name": "Firstgift",
+          "htmlUrl": "https://github.com/Abinphilipanil/Firstgift",
+          "description": null,
+          "language": "JavaScript",
+          "stars": 0,
+          "forks": 0,
+          "topics": [],
+          "updatedAt": "2026-02-13T12:35:26Z"
+        },
+        {
+          "name": "Password-generator",
+          "htmlUrl": "https://github.com/Abinphilipanil/Password-generator",
+          "description": null,
+          "language": "Python",
+          "stars": 0,
+          "forks": 0,
+          "topics": [],
+          "updatedAt": "2025-12-09T15:58:42Z"
+        },
+        {
+          "name": "To-Do-GUI",
+          "htmlUrl": "https://github.com/Abinphilipanil/To-Do-GUI",
+          "description": null,
+          "language": "Python",
+          "stars": 0,
+          "forks": 0,
+          "topics": [],
+          "updatedAt": "2025-12-08T10:27:50Z"
+        },
+        {
+          "name": "csrf-scanner",
+          "htmlUrl": "https://github.com/Abinphilipanil/csrf-scanner",
+          "description": "A Python-based tool to scan web forms for missing CSRF protection, including a demo HTML page illustrating CSRF risks.",
+          "language": "Python",
+          "stars": 0,
+          "forks": 0,
+          "topics": [],
+          "updatedAt": "2025-11-28T14:48:04Z"
+        },
+        {
+          "name": "IMDB-mulearn",
+          "htmlUrl": "https://github.com/Abinphilipanil/IMDB-mulearn",
+          "description": null,
+          "language": "Python",
+          "stars": 0,
+          "forks": 0,
+          "topics": [],
+          "updatedAt": "2025-08-31T01:45:20Z"
+        },
+        {
+          "name": "AI-INTRO",
+          "htmlUrl": "https://github.com/Abinphilipanil/AI-INTRO",
+          "description": null,
+          "language": null,
+          "stars": 0,
+          "forks": 0,
+          "topics": [],
+          "updatedAt": "2025-08-28T02:59:08Z"
+        },
+        {
+          "name": "Space-app_webpage",
+          "htmlUrl": "https://github.com/Abinphilipanil/Space-app_webpage",
+          "description": null,
+          "language": "HTML",
+          "stars": 0,
+          "forks": 0,
+          "topics": [],
+          "updatedAt": "2025-08-24T13:37:23Z"
+        }
+      ],
+      "topLanguages": [
+        "Python",
+        "HTML",
+        "JavaScript"
+      ],
+      "totalStars": 0
+    },
+    "generated_resume_markdown": "ABIN PHILIP ANIL\nabinanilphilip@gmail.com | +91 9497464373 | abinphilipanil.github.io/ | www.linkedin.com/in/abinphilipanila1b007\n\n## Summary\nI am a passionate Computer Science Engineering undergraduate with a strong interest in software development, artificial intelligence, cloud computing, and cybersecurity. I enjoy transforming ideas into real-world solutions through clean, efficient code and hands-on projects.\n\n## Experience\n- Tech Volunteer at Open Source Quest (January 2026 - Present)\n  Gained hands-on experience with Microsoft Azure for AI and data science applications, learned end-to-end AI workflows, cloud deployment concepts, and ethical AI practices.\n- Internship Trainee at Microsoft initiatives (May 2025 - June 2025)\n  Gained hands-on experience with Microsoft Azure for AI and data science applications, learned end-to-end AI workflows, cloud deployment concepts, and ethical AI practices.\n- Internship Trainee at TeckSaksham (February 2025 - March 2025)\n  Participated in AI: Transformative Learning, a CSR initiative by Microsoft & SAP, implemented by Edunet Foundation, designed and implemented a Personal Fitness Tracker using Python.\n\n## Projects\n1. AI-based-ATS - An Applicant Tracking System is recruitment software that: Parses and scores resumes based on job requirements, Filters candidates using keyword matching, Ranks applicants before human review | Tech: Python\n2. Password-generator | Tech: Python\n3. To-Do-GUI | Tech: Python\n4. csrf-scanner - A Python-based tool to scan web forms for missing CSRF protection, including a demo HTML page illustrating CSRF risks. | Tech: Python\n\n## Skills\nAzure, Python, Web Development, Supabase, Java, AI, Cloud Computing, Problem-solving, Adaptability, Teamwork, Communication, Microsoft Azure\n\n## Education\n- Computer Science and Engineering - Sree Buddha College of Engineering (2023 - 2027)\n- Higher Secondary Education - GPHSS Kulanada (March 2021 - March 2023)\n- High School - St.johns school keerukuzhy \n\n## Certificates\n- Coursera certificate on Introduction to AI\n- Coursera certificate on Intro to Supabase\n- Coursera certificate on Introduction to Generative AI\n- Udemy Python Mastery: The Complete Web Programming Course.\n- NPTEL certificate on Programming in Java",
+    "ats_score": 26,
+    "ats_analysis": {
+      "score": 26,
+      "matchLevel": "Poor",
+      "missingKeywords": [
+        "developer"
+      ],
+      "conceptualGaps": [
+        "Missing technical alignment around: developer."
+      ],
+      "strengths": [
+        "Global semantic similarity is 28.2%.",
+        "Context sentence coverage across job requirements is 0.0%.",
+        "Strong term overlap includes: java."
+      ],
+      "weaknesses": [
+        "Several high-priority job requirements are missing or weakly represented.",
+        "Keyword alignment is below ATS-safe range for this job description."
+      ],
+      "gameChangerTips": [
+        "Add resume evidence for these requirements first: developer.",
+        "Mirror exact role language in project and experience bullets where truthful."
+      ],
+      "bertMetadata": {
+        "model": "Xenova/all-MiniLM-L6-v2",
+        "analysisType": "Bidirectional embedding similarity + sentence coverage",
+        "usedFallback": false
+      }
+    },
+    "created_at": "2026-03-19T16:00:54.067Z"
+  },
+  {
+    "id": "local-resume-1773936667536-b8yc3c00",
+    "linkedin_url": null,
+    "github_url": "https://github.com/Abinphilipanil",
+    "job_description": "job role as python devloper and basic knowledge of oops\n",
+    "linkedin_data": {
+      "name": "ABIN PHILIP ANIL",
+      "headline": "Computer Science Undergrad ’27 | AI & Cloud Enthusiast | Aspiring Software Engineer | Azure • Python • Web Development",
+      "email": "abinanilphilip@gmail.com",
+      "phone": "9497464373",
+      "location": "Kozhenchery, Kerala, India",
+      "website": "abinphilipanil.github.io/",
+      "linkedin_url": "www.linkedin.com/in/",
+      "summary": "I am a passionate Computer Science Engineering undergraduate with a strong interest in software development, artificial intelligence, cloud computing, and cybersecurity. I enjoy transforming ideas into real-world solutions through clean, efficient code and hands-on projects. My learning journey includes practical experience with Microsoft Azure, AI workflows, and Python-based applications. Through internships and self-driven learning, I have developed a solid foundation in AI concepts, cloud deployment, front-end development, and ethical technology practices. I am highly motivated, adaptable, and always eager to learn emerging technologies. I am currently seeking internships, project collaborations, and learning opportunities where I can grow as a developer and contribute meaningfully to innovative teams.",
+      "skills": {
+        "technical": [
+          "Azure",
+          "Python",
+          "Web Development",
+          "Supabase",
+          "Back-end Operations",
+          "Generative AI",
+          "Java"
+        ],
+        "soft": [],
+        "tools": []
+      },
+      "experience": [
+        {
+          "title": "Tech Volunteer",
+          "company": "Open Source Quest",
+          "duration": "January 2026 - Present (3 months)",
+          "description": "Gained hands-on experience with Microsoft Azure for AI and data science applications, learned end-to-end AI workflows, cloud deployment concepts, and ethical AI practices, completed structured learning milestones independently, strengthening problem-solving skills, and built a strong foundation in cloud-based AI solutions"
+        },
+        {
+          "title": "Internship Trainee",
+          "company": "Microsoft initiatives",
+          "duration": "May 2025 - June 2025 (2 months)",
+          "description": "Gained hands-on experience with Microsoft Azure for AI and data science applications, learned end-to-end AI workflows, cloud deployment concepts, and ethical AI practices"
+        },
+        {
+          "title": "Internship Trainee",
+          "company": "TeckSaksham",
+          "duration": "February 2025 - March 2025 (2 months)",
+          "description": "Participated in AI: Transformative Learning, a CSR initiative by Microsoft & SAP, implemented by Edunet Foundation, designed and implemented a Personal Fitness Tracker using Python, and strengthened understanding of data handling, logic building, and real-world problem-solving using AI concepts"
+        }
+      ],
+      "education": [
+        {
+          "degree": "Computer Science and Engineering",
+          "institution": "Sree Buddha College of Engineering",
+          "years": "2023 - 2027",
+          "grade": null
+        },
+        {
+          "degree": "Higher Secondary Education",
+          "institution": "GPHSS Kulanada",
+          "years": "March 2021 - March 2023",
+          "grade": null
+        },
+        {
+          "degree": "High School",
+          "institution": "St.johns school keerukuzhy",
+          "years": null,
+          "grade": null
+        }
+      ],
+      "projects": []
+    },
+    "github_data": {
+      "profile": {
+        "login": "Abinphilipanil",
+        "name": null,
+        "bio": null,
+        "location": null,
+        "blog": null,
+        "company": null,
+        "email": null,
+        "followers": 0,
+        "following": 1,
+        "publicRepos": 23,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/149844177?v=4",
+        "htmlUrl": "https://github.com/Abinphilipanil"
+      },
+      "topRepositories": [
+        {
+          "name": "AR-10",
+          "htmlUrl": "https://github.com/Abinphilipanil/AR-10",
+          "description": null,
+          "language": "JavaScript",
+          "stars": 0,
+          "forks": 1,
+          "topics": [],
+          "updatedAt": "2026-03-17T14:58:29Z"
+        },
+        {
+          "name": "AI-based-ATS",
+          "htmlUrl": "https://github.com/Abinphilipanil/AI-based-ATS",
+          "description": "An Applicant Tracking System is recruitment software that:  Parses and scores resumes based on job requirements  Filters candidates using keyword matching  Ranks applicants before human review ",
+          "language": "Python",
+          "stars": 0,
+          "forks": 0,
+          "topics": [],
+          "updatedAt": "2026-02-24T13:35:30Z"
+        },
+        {
+          "name": "automatedresume-10",
+          "htmlUrl": "https://github.com/Abinphilipanil/automatedresume-10",
+          "description": null,
+          "language": "JavaScript",
+          "stars": 0,
+          "forks": 0,
+          "topics": [],
+          "updatedAt": "2026-02-22T02:02:16Z"
+        },
+        {
+          "name": "Firstgift",
+          "htmlUrl": "https://github.com/Abinphilipanil/Firstgift",
+          "description": null,
+          "language": "JavaScript",
+          "stars": 0,
+          "forks": 0,
+          "topics": [],
+          "updatedAt": "2026-02-13T12:35:26Z"
+        },
+        {
+          "name": "Password-generator",
+          "htmlUrl": "https://github.com/Abinphilipanil/Password-generator",
+          "description": null,
+          "language": "Python",
+          "stars": 0,
+          "forks": 0,
+          "topics": [],
+          "updatedAt": "2025-12-09T15:58:42Z"
+        },
+        {
+          "name": "To-Do-GUI",
+          "htmlUrl": "https://github.com/Abinphilipanil/To-Do-GUI",
+          "description": null,
+          "language": "Python",
+          "stars": 0,
+          "forks": 0,
+          "topics": [],
+          "updatedAt": "2025-12-08T10:27:50Z"
+        },
+        {
+          "name": "csrf-scanner",
+          "htmlUrl": "https://github.com/Abinphilipanil/csrf-scanner",
+          "description": "A Python-based tool to scan web forms for missing CSRF protection, including a demo HTML page illustrating CSRF risks.",
+          "language": "Python",
+          "stars": 0,
+          "forks": 0,
+          "topics": [],
+          "updatedAt": "2025-11-28T14:48:04Z"
+        },
+        {
+          "name": "IMDB-mulearn",
+          "htmlUrl": "https://github.com/Abinphilipanil/IMDB-mulearn",
+          "description": null,
+          "language": "Python",
+          "stars": 0,
+          "forks": 0,
+          "topics": [],
+          "updatedAt": "2025-08-31T01:45:20Z"
+        },
+        {
+          "name": "AI-INTRO",
+          "htmlUrl": "https://github.com/Abinphilipanil/AI-INTRO",
+          "description": null,
+          "language": null,
+          "stars": 0,
+          "forks": 0,
+          "topics": [],
+          "updatedAt": "2025-08-28T02:59:08Z"
+        },
+        {
+          "name": "Space-app_webpage",
+          "htmlUrl": "https://github.com/Abinphilipanil/Space-app_webpage",
+          "description": null,
+          "language": "HTML",
+          "stars": 0,
+          "forks": 0,
+          "topics": [],
+          "updatedAt": "2025-08-24T13:37:23Z"
+        }
+      ],
+      "topLanguages": [
+        "Python",
+        "HTML",
+        "JavaScript"
+      ],
+      "totalStars": 0
+    },
+    "generated_resume_markdown": "ABIN PHILIP ANIL\nabinanilphilip@gmail.com | +91 9497464373 | [www.linkedin.com/in/](http://www.linkedin.com/in) | [abinphilipanil.github.io/](http://abinphilipanil.github.io/)\n\n## Summary\nI am a passionate Computer Science Engineering undergraduate with a strong interest in software development, artificial intelligence, cloud computing, and cybersecurity. I enjoy transforming ideas into real-world solutions through clean, efficient code and hands-on projects.\n\n## Experience\n- Tech Volunteer at Open Source Quest (January 2026 - Present)\n  * Gained hands-on experience with Microsoft Azure for AI and data science applications\n  * Learned end-to-end AI workflows, cloud deployment concepts, and ethical AI practices\n  * Completed structured learning milestones independently, strengthening problem-solving skills\n- Internship Trainee at Microsoft initiatives (May 2025 - June 2025)\n  * Gained hands-on experience with Microsoft Azure for AI and data science applications\n  * Learned end-to-end AI workflows, cloud deployment concepts, and ethical AI practices\n- Internship Trainee at TeckSaksham (February 2025 - March 2025)\n  * Participated in AI: Transformative Learning, a CSR initiative by Microsoft & SAP\n  * Designed and implemented a Personal Fitness Tracker using Python\n  * Strengthened understanding of data handling, logic building, and real-world problem-solving using AI concepts\n\n## Projects\n- AI-based-ATS: An Applicant Tracking System that parses and scores resumes based on job requirements, filters candidates using keyword matching, and ranks applicants before human review (Tech: Python)\n- csrf-scanner: A Python-based tool to scan web forms for missing CSRF protection, including a demo HTML page illustrating CSRF risks (Tech: Python)\n- Password-generator: A Python-based project (Tech: Python)\n- To-Do-GUI: A Python-based project (Tech: Python)\n\n## Skills\n* Azure\n* Python\n* Web Development\n* Supabase\n* Back-end Operations\n* Generative AI\n* Java\n\n## Education\n* Computer Science and Engineering - Sree Buddha College of Engineering (2023 - 2027)\n* Higher Secondary Education - GPHSS Kulanada (March 2021 - March 2023)\n* High School - St.johns school keerukuzhy \n\n## Certificates\n* Coursera certificate on Introduction to AI\n* Coursera certificate on Intro to Supabase\n* Coursera certificate on Introduction to Generative AI\n* Udemy Python Mastery: The Complete Web Programming Course\n* NPTEL certificate on Programming in Java",
+    "ats_score": 34,
+    "ats_analysis": {
+      "score": 34,
+      "matchLevel": "Poor",
+      "missingKeywords": [
+        "devloper",
+        "basic",
+        "oops"
+      ],
+      "conceptualGaps": [
+        "Missing technical alignment around: devloper, basic, oops."
+      ],
+      "strengths": [
+        "Global semantic similarity is 34.7%.",
+        "Context sentence coverage across job requirements is 38.6%.",
+        "Strong term overlap includes: python."
+      ],
+      "weaknesses": [
+        "Several high-priority job requirements are missing or weakly represented.",
+        "Keyword alignment is below ATS-safe range for this job description.",
+        "Impact metrics are limited, reducing score confidence."
+      ],
+      "gameChangerTips": [
+        "Add resume evidence for these requirements first: devloper, basic, oops.",
+        "Mirror exact role language in project and experience bullets where truthful.",
+        "Add measurable outcomes (%, scale, latency, revenue, users, cost) to each major bullet."
+      ],
+      "bertMetadata": {
+        "model": "Xenova/all-MiniLM-L6-v2",
+        "analysisType": "Bidirectional embedding similarity + sentence coverage",
+        "usedFallback": false
+      }
+    },
+    "created_at": "2026-03-19T16:11:07.536Z"
+  },
+  {
+    "id": "local-resume-1773936955748-klgai3pi",
+    "linkedin_url": null,
+    "github_url": "https://github.com/Abinphilipanil",
+    "job_description": "job role as java developer",
+    "linkedin_data": {
+      "name": "ABIN PHILIP ANIL",
+      "headline": "Computer Science Undergrad ’27 | AI & Cloud Enthusiast | Aspiring Software Engineer | Azure • Python • Web Development",
+      "email": "abinanilphilip@gmail.com",
+      "phone": "9497464373",
+      "location": "Kozhenchery, Kerala, India",
+      "website": "abinphilipanil.github.io/",
+      "linkedin_url": "www.linkedin.com/in/",
+      "summary": "I am a passionate Computer Science Engineering undergraduate with a strong interest in software development, artificial intelligence, cloud computing, and cybersecurity. I enjoy transforming ideas into real-world solutions through clean, efficient code and hands-on projects. My learning journey includes practical experience with Microsoft Azure, AI workflows, and Python-based applications. Through internships and self-driven learning, I have developed a solid foundation in AI concepts, cloud deployment, front-end development, and ethical technology practices. I am highly motivated, adaptable, and always eager to learn emerging technologies. I am currently seeking internships, project collaborations, and learning opportunities where I can grow as a developer and contribute meaningfully to innovative teams.",
+      "skills": {
+        "technical": [
+          "Azure",
+          "Python",
+          "Web Development",
+          "Supabase",
+          "Back-end Operations",
+          "Generative AI",
+          "Java"
+        ],
+        "soft": [],
+        "tools": [
+          "Microsoft Azure"
+        ]
+      },
+      "experience": [
+        {
+          "title": "Tech Volunteer",
+          "company": "Open Source Quest",
+          "duration": "January 2026 - Present (3 months)",
+          "description": "Gained hands-on experience with Microsoft Azure for AI and data science applications, learned end-to-end AI workflows, cloud deployment concepts, and ethical AI practices, completed structured learning milestones independently, strengthening problem-solving skills, and built a strong foundation in cloud-based AI solutions"
+        },
+        {
+          "title": "Internship Trainee",
+          "company": "Microsoft initiatives",
+          "duration": "May 2025 - June 2025 (2 months)",
+          "description": "Gained hands-on experience with Microsoft Azure for AI and data science applications, learned end-to-end AI workflows, cloud deployment concepts, and ethical AI practices"
+        },
+        {
+          "title": "Internship Trainee",
+          "company": "TeckSaksham",
+          "duration": "February 2025 - March 2025 (2 months)",
+          "description": "Participated in AI: Transformative Learning, a CSR initiative by Microsoft & SAP, implemented by Edunet Foundation, designed and implemented a Personal Fitness Tracker using Python, and strengthened understanding of data handling, logic building, and real-world problem-solving using AI concepts"
+        }
+      ],
+      "education": [
+        {
+          "degree": "Computer Science and Engineering",
+          "institution": "Sree Buddha College of Engineering",
+          "years": "2023 - 2027",
+          "grade": null
+        },
+        {
+          "degree": "Higher Secondary Education",
+          "institution": "GPHSS Kulanada",
+          "years": "March 2021 - March 2023",
+          "grade": null
+        },
+        {
+          "degree": "High School",
+          "institution": "St.johns school keerukuzhy",
+          "years": null,
+          "grade": null
+        }
+      ],
+      "projects": []
+    },
+    "github_data": {
+      "profile": {
+        "login": "Abinphilipanil",
+        "name": null,
+        "bio": null,
+        "location": null,
+        "blog": null,
+        "company": null,
+        "email": null,
+        "followers": 0,
+        "following": 1,
+        "publicRepos": 23,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/149844177?v=4",
+        "htmlUrl": "https://github.com/Abinphilipanil"
+      },
+      "topRepositories": [
+        {
+          "name": "AR-10",
+          "htmlUrl": "https://github.com/Abinphilipanil/AR-10",
+          "description": null,
+          "language": "JavaScript",
+          "stars": 0,
+          "forks": 1,
+          "topics": [],
+          "updatedAt": "2026-03-17T14:58:29Z"
+        },
+        {
+          "name": "AI-based-ATS",
+          "htmlUrl": "https://github.com/Abinphilipanil/AI-based-ATS",
+          "description": "An Applicant Tracking System is recruitment software that:  Parses and scores resumes based on job requirements  Filters candidates using keyword matching  Ranks applicants before human review ",
+          "language": "Python",
+          "stars": 0,
+          "forks": 0,
+          "topics": [],
+          "updatedAt": "2026-02-24T13:35:30Z"
+        },
+        {
+          "name": "automatedresume-10",
+          "htmlUrl": "https://github.com/Abinphilipanil/automatedresume-10",
+          "description": null,
+          "language": "JavaScript",
+          "stars": 0,
+          "forks": 0,
+          "topics": [],
+          "updatedAt": "2026-02-22T02:02:16Z"
+        },
+        {
+          "name": "Firstgift",
+          "htmlUrl": "https://github.com/Abinphilipanil/Firstgift",
+          "description": null,
+          "language": "JavaScript",
+          "stars": 0,
+          "forks": 0,
+          "topics": [],
+          "updatedAt": "2026-02-13T12:35:26Z"
+        },
+        {
+          "name": "Password-generator",
+          "htmlUrl": "https://github.com/Abinphilipanil/Password-generator",
+          "description": null,
+          "language": "Python",
+          "stars": 0,
+          "forks": 0,
+          "topics": [],
+          "updatedAt": "2025-12-09T15:58:42Z"
+        },
+        {
+          "name": "To-Do-GUI",
+          "htmlUrl": "https://github.com/Abinphilipanil/To-Do-GUI",
+          "description": null,
+          "language": "Python",
+          "stars": 0,
+          "forks": 0,
+          "topics": [],
+          "updatedAt": "2025-12-08T10:27:50Z"
+        },
+        {
+          "name": "csrf-scanner",
+          "htmlUrl": "https://github.com/Abinphilipanil/csrf-scanner",
+          "description": "A Python-based tool to scan web forms for missing CSRF protection, including a demo HTML page illustrating CSRF risks.",
+          "language": "Python",
+          "stars": 0,
+          "forks": 0,
+          "topics": [],
+          "updatedAt": "2025-11-28T14:48:04Z"
+        },
+        {
+          "name": "IMDB-mulearn",
+          "htmlUrl": "https://github.com/Abinphilipanil/IMDB-mulearn",
+          "description": null,
+          "language": "Python",
+          "stars": 0,
+          "forks": 0,
+          "topics": [],
+          "updatedAt": "2025-08-31T01:45:20Z"
+        },
+        {
+          "name": "AI-INTRO",
+          "htmlUrl": "https://github.com/Abinphilipanil/AI-INTRO",
+          "description": null,
+          "language": null,
+          "stars": 0,
+          "forks": 0,
+          "topics": [],
+          "updatedAt": "2025-08-28T02:59:08Z"
+        },
+        {
+          "name": "Space-app_webpage",
+          "htmlUrl": "https://github.com/Abinphilipanil/Space-app_webpage",
+          "description": null,
+          "language": "HTML",
+          "stars": 0,
+          "forks": 0,
+          "topics": [],
+          "updatedAt": "2025-08-24T13:37:23Z"
+        }
+      ],
+      "topLanguages": [
+        "Python",
+        "HTML",
+        "JavaScript"
+      ],
+      "totalStars": 0
+    },
+    "generated_resume_markdown": "# ABIN PHILIP ANIL\nabinanilphilip@gmail.com | 9497464373 | www.linkedin.com/in/ | https://github.com/Abinphilipanil | https://abinphilipanil.github.io/\n\n## Summary\nPassionate Computer Science Engineering undergraduate with strong interest in software development, artificial intelligence, cloud computing, and cybersecurity. Proficient in transforming ideas into real-world solutions through clean, efficient code and hands-on projects.\n\n## Experience\n* Tech Volunteer at Open Source Quest (January 2026 - Present)\n  * Gained hands-on experience with Microsoft Azure for AI and data science applications\n  * Learned end-to-end AI workflows, cloud deployment concepts, and ethical AI practices\n* Internship Trainee at Microsoft initiatives (May 2025 - June 2025)\n  * Gained hands-on experience with Microsoft Azure for AI and data science applications\n  * Learned end-to-end AI workflows, cloud deployment concepts, and ethical AI practices\n* Internship Trainee at TeckSaksham (February 2025 - March 2025)\n  * Participated in AI: Transformative Learning, a CSR initiative by Microsoft & SAP\n  * Designed and implemented a Personal Fitness Tracker using Python\n\n## Projects\n* AI-based-ATS - An Applicant Tracking System that parses and scores resumes based on job requirements\n* csrf-scanner - A Python-based tool to scan web forms for missing CSRF protection\n* Password-generator - A Python-based password generator\n* To-Do-GUI - A Python-based To-Do list GUI application\n\n## Skills\n* Azure\n* Python\n* Web Development\n* Supabase\n* Back-end Operations\n* Generative AI\n* Java\n\n## Education\n* Computer Science and Engineering - Sree Buddha College of Engineering (2023 - 2027)\n* Higher Secondary Education - GPHSS Kulanada (2021 - 2023)\n* High School - St.johns school keerukuzhy \n\n## Certificates\n* Coursera certificate on Introduction to AI\n* Coursera certificate on Intro to Supabase\n* Coursera certificate on Introduction to Generative AI\n* Udemy Python Mastery: The Complete Web Programming Course\n* NPTEL certificate on Programming in Java",
+    "ats_score": 26,
+    "ats_analysis": {
+      "score": 26,
+      "matchLevel": "Poor",
+      "missingKeywords": [
+        "developer"
+      ],
+      "conceptualGaps": [
+        "Missing technical alignment around: developer."
+      ],
+      "strengths": [
+        "Global semantic similarity is 33.5%.",
+        "Context sentence coverage across job requirements is 0.0%.",
+        "Strong term overlap includes: java."
+      ],
+      "weaknesses": [
+        "Several high-priority job requirements are missing or weakly represented.",
+        "Keyword alignment is below ATS-safe range for this job description.",
+        "Impact metrics are limited, reducing score confidence."
+      ],
+      "gameChangerTips": [
+        "Add resume evidence for these requirements first: developer.",
+        "Mirror exact role language in project and experience bullets where truthful.",
+        "Add measurable outcomes (%, scale, latency, revenue, users, cost) to each major bullet."
+      ],
+      "bertMetadata": {
+        "model": "Xenova/all-MiniLM-L6-v2",
+        "analysisType": "Bidirectional embedding similarity + sentence coverage",
+        "usedFallback": false
+      }
+    },
+    "created_at": "2026-03-19T16:15:55.748Z"
+  },
+  {
+    "id": "local-resume-1773937813412-n81tpvuy",
+    "linkedin_url": null,
+    "github_url": "https://github.com/Abinphilipanil",
+    "job_description": "job role as java developer\n",
+    "linkedin_data": {
+      "name": "ABIN PHILIP ANIL",
+      "headline": "Computer Science Undergrad ’27 | AI & Cloud Enthusiast | Aspiring Software Engineer | Azure • Python • Web Development",
+      "email": "abinanilphilip@gmail.com",
+      "phone": "9497464373",
+      "location": "Kozhenchery, Kerala, India",
+      "website": "abinphilipanil.github.io/",
+      "linkedin_url": "www.linkedin.com/in/",
+      "summary": "I am a passionate Computer Science Engineering undergraduate with a strong interest in software development, artificial intelligence, cloud computing, and cybersecurity. I enjoy transforming ideas into real-world solutions through clean, efficient code and hands-on projects. My learning journey includes practical experience with Microsoft Azure, AI workflows, and Python-based applications. Through internships and self-driven learning, I have developed a solid foundation in AI concepts, cloud deployment, front-end development, and ethical technology practices. I am highly motivated, adaptable, and always eager to learn emerging technologies. I am currently seeking internships, project collaborations, and learning opportunities where I can grow as a developer and contribute meaningfully to innovative teams.",
+      "skills": {
+        "technical": [
+          "Azure",
+          "Python",
+          "Web Development",
+          "Supabase",
+          "Java",
+          "AI"
+        ],
+        "soft": [
+          "Problem-solving",
+          "Adaptability",
+          "Teamwork"
+        ],
+        "tools": [
+          "Microsoft Azure"
+        ]
+      },
+      "experience": [
+        {
+          "title": "Tech Volunteer",
+          "company": "Open Source Quest",
+          "duration": "January 2026 - Present (3 months)",
+          "description": "Gained hands-on experience with Microsoft Azure for AI and data science applications, learned end-to-end AI workflows, cloud deployment concepts, and ethical AI practices, completed structured learning milestones independently, strengthening problem-solving skills, and built a strong foundation in cloud-based AI solutions"
+        },
+        {
+          "title": "Internship Trainee",
+          "company": "Microsoft initiatives",
+          "duration": "May 2025 - June 2025 (2 months)",
+          "description": "Gained hands-on experience with Microsoft Azure for AI and data science applications, learned end-to-end AI workflows, cloud deployment concepts, and ethical AI practices"
+        },
+        {
+          "title": "Internship Trainee",
+          "company": "TeckSaksham",
+          "duration": "February 2025 - March 2025 (2 months)",
+          "description": "Participated in AI: Transformative Learning, a CSR initiative by Microsoft & SAP, implemented by Edunet Foundation, designed and implemented a Personal Fitness Tracker using Python, and strengthened understanding of data handling, logic building, and real-world problem-solving using AI concepts"
+        }
+      ],
+      "education": [
+        {
+          "degree": "Computer Science and Engineering",
+          "institution": "Sree Buddha College of Engineering",
+          "years": "2023 - 2027",
+          "grade": null
+        },
+        {
+          "degree": "Higher Secondary Education",
+          "institution": "GPHSS Kulanada",
+          "years": "March 2021 - March 2023",
+          "grade": null
+        },
+        {
+          "degree": "High School",
+          "institution": "St.johns school keerukuzhy",
+          "years": null,
+          "grade": null
+        }
+      ],
+      "projects": []
+    },
+    "github_data": {
+      "profile": {
+        "login": "Abinphilipanil",
+        "name": null,
+        "bio": null,
+        "location": null,
+        "blog": null,
+        "company": null,
+        "email": null,
+        "followers": 0,
+        "following": 1,
+        "publicRepos": 23,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/149844177?v=4",
+        "htmlUrl": "https://github.com/Abinphilipanil"
+      },
+      "topRepositories": [
+        {
+          "name": "AR-10",
+          "htmlUrl": "https://github.com/Abinphilipanil/AR-10",
+          "description": null,
+          "language": "JavaScript",
+          "stars": 0,
+          "forks": 1,
+          "topics": [],
+          "updatedAt": "2026-03-17T14:58:29Z"
+        },
+        {
+          "name": "AI-based-ATS",
+          "htmlUrl": "https://github.com/Abinphilipanil/AI-based-ATS",
+          "description": "An Applicant Tracking System is recruitment software that:  Parses and scores resumes based on job requirements  Filters candidates using keyword matching  Ranks applicants before human review ",
+          "language": "Python",
+          "stars": 0,
+          "forks": 0,
+          "topics": [],
+          "updatedAt": "2026-02-24T13:35:30Z"
+        },
+        {
+          "name": "automatedresume-10",
+          "htmlUrl": "https://github.com/Abinphilipanil/automatedresume-10",
+          "description": null,
+          "language": "JavaScript",
+          "stars": 0,
+          "forks": 0,
+          "topics": [],
+          "updatedAt": "2026-02-22T02:02:16Z"
+        },
+        {
+          "name": "Firstgift",
+          "htmlUrl": "https://github.com/Abinphilipanil/Firstgift",
+          "description": null,
+          "language": "JavaScript",
+          "stars": 0,
+          "forks": 0,
+          "topics": [],
+          "updatedAt": "2026-02-13T12:35:26Z"
+        },
+        {
+          "name": "Password-generator",
+          "htmlUrl": "https://github.com/Abinphilipanil/Password-generator",
+          "description": null,
+          "language": "Python",
+          "stars": 0,
+          "forks": 0,
+          "topics": [],
+          "updatedAt": "2025-12-09T15:58:42Z"
+        },
+        {
+          "name": "To-Do-GUI",
+          "htmlUrl": "https://github.com/Abinphilipanil/To-Do-GUI",
+          "description": null,
+          "language": "Python",
+          "stars": 0,
+          "forks": 0,
+          "topics": [],
+          "updatedAt": "2025-12-08T10:27:50Z"
+        },
+        {
+          "name": "csrf-scanner",
+          "htmlUrl": "https://github.com/Abinphilipanil/csrf-scanner",
+          "description": "A Python-based tool to scan web forms for missing CSRF protection, including a demo HTML page illustrating CSRF risks.",
+          "language": "Python",
+          "stars": 0,
+          "forks": 0,
+          "topics": [],
+          "updatedAt": "2025-11-28T14:48:04Z"
+        },
+        {
+          "name": "IMDB-mulearn",
+          "htmlUrl": "https://github.com/Abinphilipanil/IMDB-mulearn",
+          "description": null,
+          "language": "Python",
+          "stars": 0,
+          "forks": 0,
+          "topics": [],
+          "updatedAt": "2025-08-31T01:45:20Z"
+        },
+        {
+          "name": "AI-INTRO",
+          "htmlUrl": "https://github.com/Abinphilipanil/AI-INTRO",
+          "description": null,
+          "language": null,
+          "stars": 0,
+          "forks": 0,
+          "topics": [],
+          "updatedAt": "2025-08-28T02:59:08Z"
+        },
+        {
+          "name": "Space-app_webpage",
+          "htmlUrl": "https://github.com/Abinphilipanil/Space-app_webpage",
+          "description": null,
+          "language": "HTML",
+          "stars": 0,
+          "forks": 0,
+          "topics": [],
+          "updatedAt": "2025-08-24T13:37:23Z"
+        }
+      ],
+      "topLanguages": [
+        "Python",
+        "HTML",
+        "JavaScript"
+      ],
+      "totalStars": 0
+    },
+    "generated_resume_markdown": "# ABIN PHILIP ANIL\nabinanilphilip@gmail.com | 9497464373 | www.linkedin.com/in/ | https://github.com/Abinphilipanil | https://abinphilipanil.github.io/\n\n## Summary\nI am a passionate Computer Science Engineering undergraduate with a strong interest in software development, artificial intelligence, cloud computing, and cybersecurity. I enjoy transforming ideas into real-world solutions through clean, efficient code and hands-on projects.\n\n## Experience\n- Tech Volunteer at Open Source Quest (January 2026 - Present)\n  * Gained hands-on experience with Microsoft Azure for AI and data science applications\n  * Learned end-to-end AI workflows, cloud deployment concepts, and ethical AI practices\n  * Completed structured learning milestones independently, strengthening problem-solving skills\n- Internship Trainee at Microsoft initiatives (May 2025 - June 2025)\n  * Gained hands-on experience with Microsoft Azure for AI and data science applications\n  * Learned end-to-end AI workflows, cloud deployment concepts, and ethical AI practices\n- Internship Trainee at TeckSaksham (February 2025 - March 2025)\n  * Participated in AI: Transformative Learning, a CSR initiative by Microsoft & SAP\n  * Designed and implemented a Personal Fitness Tracker using Python\n  * Strengthened understanding of data handling, logic building, and real-world problem-solving using AI concepts\n\n## Projects\n- AI-based-ATS: An Applicant Tracking System that parses and scores resumes based on job requirements\n- Password-generator: A Python-based tool for generating passwords\n- To-Do-GUI: A Python-based To-Do list application\n- csrf-scanner: A Python-based tool to scan web forms for missing CSRF protection\n\n## Skills\n- Azure\n- Python\n- Web Development\n- Supabase\n- Java\n- AI\n- Problem-solving\n- Adaptability\n- Teamwork\n- Microsoft Azure\n\n## Education\n- Computer Science and Engineering, Sree Buddha College of Engineering (2023 - 2027), CGPA: 9.40\n- Higher Secondary Education, GPHSS Kulanada (2021 - 2023), Percentage: 97.6%\n- High School, St.johns school keerukuzhy (2020 - 2021), Percentage: 94.6%",
+    "ats_score": 14,
+    "ats_analysis": {
+      "score": 14,
+      "matchLevel": "Poor",
+      "missingKeywords": [
+        "java",
+        "developer"
+      ],
+      "conceptualGaps": [
+        "Missing technical alignment around: java, developer."
+      ],
+      "strengths": [
+        "Global semantic similarity is 24.0%.",
+        "Context sentence coverage across job requirements is 0.0%."
+      ],
+      "weaknesses": [
+        "Several high-priority job requirements are missing or weakly represented.",
+        "Keyword alignment is below ATS-safe range for this job description."
+      ],
+      "gameChangerTips": [
+        "Add resume evidence for these requirements first: java, developer.",
+        "Mirror exact role language in project and experience bullets where truthful."
+      ],
+      "bertMetadata": {
+        "model": "Xenova/all-MiniLM-L6-v2",
+        "analysisType": "Bidirectional embedding similarity + sentence coverage",
+        "usedFallback": false
+      }
+    },
+    "created_at": "2026-03-19T16:30:13.412Z"
+  },
+  {
+    "id": "local-resume-1773938640731-b35xmas4",
+    "linkedin_url": null,
+    "github_url": "https://github.com/sanity",
+    "job_description": "sanity",
+    "linkedin_data": {},
+    "github_data": {},
+    "generated_resume_markdown": "# sanity",
+    "ats_score": 42,
+    "ats_analysis": {
+      "score": 42,
+      "skillsPresent": [
+        "python"
+      ],
+      "skillsMissing": [
+        "kubernetes"
+      ]
+    },
+    "created_at": "2026-03-19T16:44:00.731Z"
+  },
+  {
+    "id": "local-resume-1773963531335-qut18qni",
+    "linkedin_url": null,
+    "github_url": "https://github.com/Abinphilipanil",
+    "job_description": "job role as python programmer",
+    "linkedin_data": {
+      "name": "ABIN PHILIP ANIL",
+      "headline": "Computer Science Undergrad ’27 | AI & Cloud Enthusiast | Aspiring Software Engineer | Azure • Python • Web Development",
+      "email": "abinanilphilip@gmail.com",
+      "phone": "9497464373",
+      "location": "Kozhenchery, Kerala, India",
+      "website": "abinphilipanil.github.io/",
+      "linkedin_url": "www.linkedin.com/in/abinphilipanila1b007",
+      "summary": "I am a passionate Computer Science Engineering undergraduate with a strong interest in software development, artificial intelligence, cloud computing, and cybersecurity. I enjoy transforming ideas into real-world solutions through clean, efficient code and hands-on projects. My learning journey includes practical experience with Microsoft Azure, AI workflows, and Python-based applications. Through internships and self-driven learning, I have developed a solid foundation in AI concepts, cloud deployment, front-end development, and ethical technology practices. I am highly motivated, adaptable, and always eager to learn emerging technologies. I am currently seeking internships, project collaborations, and learning opportunities where I can grow as a developer and contribute meaningfully to innovative teams.",
+      "skills": {
+        "technical": [
+          "Azure",
+          "Python",
+          "Web Development",
+          "Supabase",
+          "Java",
+          "AI",
+          "Cloud Computing"
+        ],
+        "soft": [
+          "Problem-solving",
+          "Adaptability",
+          "Teamwork",
+          "Communication"
+        ],
+        "tools": [
+          "Microsoft Azure",
+          "Python"
+        ]
+      },
+      "experience": [
+        {
+          "title": "Tech Volunteer",
+          "company": "Open Source Quest",
+          "duration": "January 2026 - Present (3 months)",
+          "description": "Gained hands-on experience with Microsoft Azure for AI and data science applications, learned end-to-end AI workflows, cloud deployment concepts, and ethical AI practices, completed structured learning milestones independently, strengthening problem-solving skills, and built a strong foundation in cloud-based AI solutions"
+        },
+        {
+          "title": "Internship Trainee",
+          "company": "Microsoft initiatives",
+          "duration": "May 2025 - June 2025 (2 months)",
+          "description": "Gained hands-on experience with Microsoft Azure for AI and data science applications, learned end-to-end AI workflows, cloud deployment concepts, and ethical AI practices"
+        },
+        {
+          "title": "Internship Trainee",
+          "company": "TeckSaksham",
+          "duration": "February 2025 - March 2025 (2 months)",
+          "description": "Participated in AI: Transformative Learning, a CSR initiative by Microsoft & SAP, implemented by Edunet Foundation, designed and implemented a Personal Fitness Tracker using Python, and strengthened understanding of data handling, logic building, and real-world problem-solving using AI concepts"
+        }
+      ],
+      "education": [
+        {
+          "degree": "Computer Science and Engineering",
+          "institution": "Sree Buddha College of Engineering",
+          "years": "2023 - 2027",
+          "grade": null
+        },
+        {
+          "degree": "Higher Secondary Education",
+          "institution": "GPHSS Kulanada",
+          "years": "March 2021 - March 2023",
+          "grade": null
+        },
+        {
+          "degree": "High School",
+          "institution": "St.johns school keerukuzhy",
+          "years": null,
+          "grade": null
+        }
+      ],
+      "projects": []
+    },
+    "github_data": {
+      "profile": {
+        "login": "Abinphilipanil",
+        "name": null,
+        "bio": null,
+        "location": null,
+        "blog": null,
+        "company": null,
+        "email": null,
+        "followers": 0,
+        "following": 1,
+        "publicRepos": 23,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/149844177?v=4",
+        "htmlUrl": "https://github.com/Abinphilipanil"
+      },
+      "topRepositories": [
+        {
+          "name": "AR-10",
+          "htmlUrl": "https://github.com/Abinphilipanil/AR-10",
+          "description": null,
+          "language": "JavaScript",
+          "stars": 0,
+          "forks": 1,
+          "topics": [],
+          "updatedAt": "2026-03-17T14:58:29Z"
+        },
+        {
+          "name": "AI-based-ATS",
+          "htmlUrl": "https://github.com/Abinphilipanil/AI-based-ATS",
+          "description": "An Applicant Tracking System is recruitment software that:  Parses and scores resumes based on job requirements  Filters candidates using keyword matching  Ranks applicants before human review ",
+          "language": "Python",
+          "stars": 0,
+          "forks": 0,
+          "topics": [],
+          "updatedAt": "2026-02-24T13:35:30Z"
+        },
+        {
+          "name": "automatedresume-10",
+          "htmlUrl": "https://github.com/Abinphilipanil/automatedresume-10",
+          "description": null,
+          "language": "JavaScript",
+          "stars": 0,
+          "forks": 0,
+          "topics": [],
+          "updatedAt": "2026-02-22T02:02:16Z"
+        },
+        {
+          "name": "Firstgift",
+          "htmlUrl": "https://github.com/Abinphilipanil/Firstgift",
+          "description": null,
+          "language": "JavaScript",
+          "stars": 0,
+          "forks": 0,
+          "topics": [],
+          "updatedAt": "2026-02-13T12:35:26Z"
+        },
+        {
+          "name": "Password-generator",
+          "htmlUrl": "https://github.com/Abinphilipanil/Password-generator",
+          "description": null,
+          "language": "Python",
+          "stars": 0,
+          "forks": 0,
+          "topics": [],
+          "updatedAt": "2025-12-09T15:58:42Z"
+        },
+        {
+          "name": "To-Do-GUI",
+          "htmlUrl": "https://github.com/Abinphilipanil/To-Do-GUI",
+          "description": null,
+          "language": "Python",
+          "stars": 0,
+          "forks": 0,
+          "topics": [],
+          "updatedAt": "2025-12-08T10:27:50Z"
+        },
+        {
+          "name": "csrf-scanner",
+          "htmlUrl": "https://github.com/Abinphilipanil/csrf-scanner",
+          "description": "A Python-based tool to scan web forms for missing CSRF protection, including a demo HTML page illustrating CSRF risks.",
+          "language": "Python",
+          "stars": 0,
+          "forks": 0,
+          "topics": [],
+          "updatedAt": "2025-11-28T14:48:04Z"
+        },
+        {
+          "name": "IMDB-mulearn",
+          "htmlUrl": "https://github.com/Abinphilipanil/IMDB-mulearn",
+          "description": null,
+          "language": "Python",
+          "stars": 0,
+          "forks": 0,
+          "topics": [],
+          "updatedAt": "2025-08-31T01:45:20Z"
+        },
+        {
+          "name": "AI-INTRO",
+          "htmlUrl": "https://github.com/Abinphilipanil/AI-INTRO",
+          "description": null,
+          "language": null,
+          "stars": 0,
+          "forks": 0,
+          "topics": [],
+          "updatedAt": "2025-08-28T02:59:08Z"
+        },
+        {
+          "name": "Space-app_webpage",
+          "htmlUrl": "https://github.com/Abinphilipanil/Space-app_webpage",
+          "description": null,
+          "language": "HTML",
+          "stars": 0,
+          "forks": 0,
+          "topics": [],
+          "updatedAt": "2025-08-24T13:37:23Z"
+        }
+      ],
+      "topLanguages": [
+        "Python",
+        "HTML",
+        "JavaScript"
+      ],
+      "totalStars": 0
+    },
+    "generated_resume_markdown": "# ABIN PHILIP ANIL\nabinanilphilip@gmail.com | 9497464373 | www.linkedin.com/in/abinphilipanila1b007 | abinphilipanil.github.io/ | \n\n## Summary\nPassionate Computer Science Engineering undergraduate with strong interest in software development, artificial intelligence, cloud computing, and cybersecurity. Proficient in transforming ideas into real-world solutions through clean, efficient code and hands-on projects.\n\n## Experience\n* Tech Volunteer at Open Source Quest (January 2026 - Present)\n  * Gained hands-on experience with Microsoft Azure for AI and data science applications\n  * Learned end-to-end AI workflows, cloud deployment concepts, and ethical AI practices\n* Internship Trainee at Microsoft initiatives (May 2025 - June 2025)\n  * Gained hands-on experience with Microsoft Azure for AI and data science applications\n  * Learned end-to-end AI workflows, cloud deployment concepts, and ethical AI practices\n* Internship Trainee at TeckSaksham (February 2025 - March 2025)\n  * Participated in AI: Transformative Learning, a CSR initiative by Microsoft & SAP\n  * Designed and implemented a Personal Fitness Tracker using Python\n\n## Projects\n* AI-based-ATS - An Applicant Tracking System that parses and scores resumes based on job requirements\n* csrf-scanner - A Python-based tool to scan web forms for missing CSRF protection\n* Password-generator - A Python-based password generator\n* To-Do-GUI - A Python-based To-Do list GUI application\n\n## Skills\n* Azure\n* Python\n* Web Development\n* Supabase\n* Java\n* AI\n* Cloud Computing\n* Problem-solving\n* Adaptability\n* Teamwork\n* Communication\n\n## Education\n* Computer Science and Engineering - Sree Buddha College of Engineering (2023 - 2027) \n  * CGPA: 9.40 (till semester 4)\n* Higher Secondary Education - GPHSS Kulanada (2021 - 2023) \n  * Percentage: 97.6%\n* High School - St.johns school keerukuzhy \n  * Percentage: 94.6%",
+    "ats_score": 26,
+    "ats_analysis": {
+      "score": 26,
+      "matchLevel": "Poor",
+      "skillsPresent": [
+        "python"
+      ],
+      "skillsMissing": [
+        "programmer"
+      ],
+      "missingKeywords": [
+        "programmer"
+      ],
+      "conceptualGaps": [
+        "Missing technical alignment around: programmer."
+      ],
+      "strengths": [
+        "Global semantic similarity is 29.5%.",
+        "Context sentence coverage across job requirements is 0.0%.",
+        "Strong term overlap includes: python."
+      ],
+      "weaknesses": [
+        "Several high-priority job requirements are missing or weakly represented.",
+        "Keyword alignment is below ATS-safe range for this job description."
+      ],
+      "gameChangerTips": [
+        "Add resume evidence for these requirements first: programmer.",
+        "Mirror exact role language in project and experience bullets where truthful."
+      ],
+      "bertMetadata": {
+        "model": "Xenova/all-MiniLM-L6-v2",
+        "analysisType": "Bidirectional embedding similarity + sentence coverage",
+        "usedFallback": false
+      }
+    },
+    "created_at": "2026-03-19T23:38:51.335Z"
+  },
+  {
+    "id": "local-resume-1773963996715-9e5z097e",
+    "linkedin_url": null,
+    "github_url": "https://github.com/Abinphilipanil",
+    "job_description": "job role as java devloper\n",
+    "linkedin_data": {
+      "name": "ABIN PHILIP ANIL",
+      "headline": "Computer Science Undergrad ’27 | AI & Cloud Enthusiast | Aspiring Software Engineer | Azure • Python • Web Development",
+      "email": "abinanilphilip@gmail.com",
+      "phone": "9497464373",
+      "location": "Kozhenchery, Kerala, India",
+      "website": "abinphilipanil.github.io/",
+      "linkedin_url": "www.linkedin.com/in/",
+      "summary": "I am a passionate Computer Science Engineering undergraduate with a strong interest in software development, artificial intelligence, cloud computing, and cybersecurity. I enjoy transforming ideas into real-world solutions through clean, efficient code and hands-on projects. My learning journey includes practical experience with Microsoft Azure, AI workflows, and Python-based applications. Through internships and self-driven learning, I have developed a solid foundation in AI concepts, cloud deployment, front-end development, and ethical technology practices. I am highly motivated, adaptable, and always eager to learn emerging technologies. I am currently seeking internships, project collaborations, and learning opportunities where I can grow as a developer and contribute meaningfully to innovative teams.",
+      "skills": {
+        "technical": [
+          "Azure",
+          "Python",
+          "Web Development",
+          "Supabase",
+          "Back-end Operations",
+          "Generative AI",
+          "Java"
+        ],
+        "soft": [],
+        "tools": [
+          "Microsoft Azure"
+        ]
+      },
+      "experience": [
+        {
+          "title": "Tech Volunteer",
+          "company": "Open Source Quest",
+          "duration": "January 2026 - Present (3 months)",
+          "description": "Gained hands-on experience with Microsoft Azure for AI and data science applications, learned end-to-end AI workflows, cloud deployment concepts, and ethical AI practices, completed structured learning milestones independently, strengthening problem-solving skills, and built a strong foundation in cloud-based AI solutions"
+        },
+        {
+          "title": "Internship Trainee",
+          "company": "Microsoft initiatives",
+          "duration": "May 2025 - June 2025 (2 months)",
+          "description": "Gained hands-on experience with Microsoft Azure for AI and data science applications, learned end-to-end AI workflows, cloud deployment concepts, and ethical AI practices"
+        },
+        {
+          "title": "Internship Trainee",
+          "company": "TeckSaksham",
+          "duration": "February 2025 - March 2025 (2 months)",
+          "description": "Participated in AI: Transformative Learning, a CSR initiative by Microsoft & SAP, implemented by Edunet Foundation, designed and implemented a Personal Fitness Tracker using Python, and strengthened understanding of data handling, logic building, and real-world problem-solving using AI concepts"
+        }
+      ],
+      "education": [
+        {
+          "degree": "Computer Science and Engineering",
+          "institution": "Sree Buddha College of Engineering",
+          "years": "2023 - 2027",
+          "grade": null
+        },
+        {
+          "degree": "Higher Secondary Education",
+          "institution": "GPHSS Kulanada",
+          "years": "March 2021 - March 2023",
+          "grade": null
+        },
+        {
+          "degree": "High School",
+          "institution": "St.johns school keerukuzhy",
+          "years": null,
+          "grade": null
+        }
+      ],
+      "projects": []
+    },
+    "github_data": {
+      "profile": {
+        "login": "Abinphilipanil",
+        "name": null,
+        "bio": null,
+        "location": null,
+        "blog": null,
+        "company": null,
+        "email": null,
+        "followers": 0,
+        "following": 1,
+        "publicRepos": 23,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/149844177?v=4",
+        "htmlUrl": "https://github.com/Abinphilipanil"
+      },
+      "topRepositories": [
+        {
+          "name": "AR-10",
+          "htmlUrl": "https://github.com/Abinphilipanil/AR-10",
+          "description": null,
+          "language": "JavaScript",
+          "stars": 0,
+          "forks": 1,
+          "topics": [],
+          "updatedAt": "2026-03-17T14:58:29Z"
+        },
+        {
+          "name": "AI-based-ATS",
+          "htmlUrl": "https://github.com/Abinphilipanil/AI-based-ATS",
+          "description": "An Applicant Tracking System is recruitment software that:  Parses and scores resumes based on job requirements  Filters candidates using keyword matching  Ranks applicants before human review ",
+          "language": "Python",
+          "stars": 0,
+          "forks": 0,
+          "topics": [],
+          "updatedAt": "2026-02-24T13:35:30Z"
+        },
+        {
+          "name": "automatedresume-10",
+          "htmlUrl": "https://github.com/Abinphilipanil/automatedresume-10",
+          "description": null,
+          "language": "JavaScript",
+          "stars": 0,
+          "forks": 0,
+          "topics": [],
+          "updatedAt": "2026-02-22T02:02:16Z"
+        },
+        {
+          "name": "Firstgift",
+          "htmlUrl": "https://github.com/Abinphilipanil/Firstgift",
+          "description": null,
+          "language": "JavaScript",
+          "stars": 0,
+          "forks": 0,
+          "topics": [],
+          "updatedAt": "2026-02-13T12:35:26Z"
+        },
+        {
+          "name": "Password-generator",
+          "htmlUrl": "https://github.com/Abinphilipanil/Password-generator",
+          "description": null,
+          "language": "Python",
+          "stars": 0,
+          "forks": 0,
+          "topics": [],
+          "updatedAt": "2025-12-09T15:58:42Z"
+        },
+        {
+          "name": "To-Do-GUI",
+          "htmlUrl": "https://github.com/Abinphilipanil/To-Do-GUI",
+          "description": null,
+          "language": "Python",
+          "stars": 0,
+          "forks": 0,
+          "topics": [],
+          "updatedAt": "2025-12-08T10:27:50Z"
+        },
+        {
+          "name": "csrf-scanner",
+          "htmlUrl": "https://github.com/Abinphilipanil/csrf-scanner",
+          "description": "A Python-based tool to scan web forms for missing CSRF protection, including a demo HTML page illustrating CSRF risks.",
+          "language": "Python",
+          "stars": 0,
+          "forks": 0,
+          "topics": [],
+          "updatedAt": "2025-11-28T14:48:04Z"
+        },
+        {
+          "name": "IMDB-mulearn",
+          "htmlUrl": "https://github.com/Abinphilipanil/IMDB-mulearn",
+          "description": null,
+          "language": "Python",
+          "stars": 0,
+          "forks": 0,
+          "topics": [],
+          "updatedAt": "2025-08-31T01:45:20Z"
+        },
+        {
+          "name": "AI-INTRO",
+          "htmlUrl": "https://github.com/Abinphilipanil/AI-INTRO",
+          "description": null,
+          "language": null,
+          "stars": 0,
+          "forks": 0,
+          "topics": [],
+          "updatedAt": "2025-08-28T02:59:08Z"
+        },
+        {
+          "name": "Space-app_webpage",
+          "htmlUrl": "https://github.com/Abinphilipanil/Space-app_webpage",
+          "description": null,
+          "language": "HTML",
+          "stars": 0,
+          "forks": 0,
+          "topics": [],
+          "updatedAt": "2025-08-24T13:37:23Z"
+        }
+      ],
+      "topLanguages": [
+        "Python",
+        "HTML",
+        "JavaScript"
+      ],
+      "totalStars": 0
+    },
+    "generated_resume_markdown": "# ABIN PHILIP ANIL\nabinanilphilip@gmail.com | 9497464373 | www.linkedin.com/in/ | abinphilipanil.github.io/ | https://abinphilipanil.github.io/\n\n## Summary\nI am a passionate Computer Science Engineering undergraduate with a strong interest in software development, artificial intelligence, cloud computing, and cybersecurity. I enjoy transforming ideas into real-world solutions through clean, efficient code and hands-on projects.\n\n## Experience\n* Tech Volunteer at Open Source Quest (January 2026 - Present)\n  * Gained hands-on experience with Microsoft Azure for AI and data science applications\n  * Learned end-to-end AI workflows, cloud deployment concepts, and ethical AI practices\n* Internship Trainee at Microsoft initiatives (May 2025 - June 2025)\n  * Gained hands-on experience with Microsoft Azure for AI and data science applications\n  * Learned end-to-end AI workflows, cloud deployment concepts, and ethical AI practices\n* Internship Trainee at TeckSaksham (February 2025 - March 2025)\n  * Participated in AI: Transformative Learning, a CSR initiative by Microsoft & SAP\n  * Designed and implemented a Personal Fitness Tracker using Python\n* AI & Cloud Intern – Edunet Foundation Microsoft AI Skills Navigator Program (May 2025)\n  * Participating in a comprehensive AI skills development program\n  * Gaining expertise in AI & ML fundamentals, Generative AI, Natural Language Processing, Computer Vision, and Azure AI integration\n* Member, Nicolas Tesla Research Group (January 2026 - Present)\n  * Collaborated with cross-functional teams to achieve project goals\n  * Proposed innovative ideas and solutions that improved team performance and outcomes\n* Member, Coding Club (December 2025 - Present)\n  * Assisted with special events and programs\n  * Supported engaging, fun, and smooth-running events by helping with organization and planning\n\n## Projects\n* AI-based-ATS: An Applicant Tracking System that parses and scores resumes based on job requirements\n* csrf-scanner: A Python-based tool to scan web forms for missing CSRF protection\n* Password-generator: A Python-based password generator\n* To-Do-GUI: A Python-based To-Do list GUI application\n* Space-app_webpage: An HTML-based space app webpage\n\n## Skills\n* Azure\n* Python\n* Web Development\n* Supabase\n* Back-end Operations\n* Generative AI\n* Java\n* Microsoft Azure\n\n## Education\n* B.Tech in Computer Science and Engineering, Sree Buddha College of Engineering (2023 - 2027), CGPA: 9.40\n* Higher Secondary Education, Grama Panchayath Higher Secondary School (2021 - 2023), Percentage: 97.6%\n* High School, St. John's School (2020 - 2021), Percentage: 94.6%\n\n## Certificates\n* Coursera certificate on Introduction to AI\n* Coursera certificate on Intro to Supabase\n* Coursera certificate on Introduction to Generative AI\n* Udemy Python Mastery: The Complete Web Programming Course\n* NPTEL certificate on Programming in Java",
+    "ats_score": 25,
+    "ats_analysis": {
+      "score": 25,
+      "matchLevel": "Poor",
+      "skillsPresent": [
+        "java"
+      ],
+      "skillsMissing": [
+        "devloper"
+      ],
+      "missingKeywords": [
+        "devloper"
+      ],
+      "conceptualGaps": [
+        "Missing technical alignment around: devloper."
+      ],
+      "strengths": [
+        "Global semantic similarity is 23.7%.",
+        "Context sentence coverage across job requirements is 0.0%.",
+        "Strong term overlap includes: java."
+      ],
+      "weaknesses": [
+        "Several high-priority job requirements are missing or weakly represented.",
+        "Keyword alignment is below ATS-safe range for this job description."
+      ],
+      "gameChangerTips": [
+        "Add resume evidence for these requirements first: devloper.",
+        "Mirror exact role language in project and experience bullets where truthful."
+      ],
+      "bertMetadata": {
+        "model": "Xenova/all-MiniLM-L6-v2",
+        "analysisType": "Bidirectional embedding similarity + sentence coverage",
+        "usedFallback": false
+      }
+    },
+    "created_at": "2026-03-19T23:46:36.715Z"
+  },
+  {
+    "id": "local-resume-1775349341738-5vxh58f6",
+    "linkedin_url": null,
+    "github_url": "https://github.com/Abinphilipanil",
+    "job_description": "job role as python ",
+    "linkedin_data": {
+      "name": "ABIN PHILIP ANIL",
+      "headline": "Computer Science Undergrad ’27 | AI & Cloud Enthusiast | Aspiring Software Engineer | Azure • Python • Web Development",
+      "email": "abinanilphilip@gmail.com",
+      "phone": "9497464373",
+      "location": "Kozhenchery, Kerala, India",
+      "website": "abinphilipanil.github.io/",
+      "linkedin_url": "www.linkedin.com/in/",
+      "summary": "I am a passionate Computer Science Engineering undergraduate with a strong interest in software development, artificial intelligence, cloud computing, and cybersecurity. I enjoy transforming ideas into real-world solutions through clean, efficient code and hands-on projects. My learning journey includes practical experience with Microsoft Azure, AI workflows, and Python-based applications. Through internships and self-driven learning, I have developed a solid foundation in AI concepts, cloud deployment, front-end development, and ethical technology practices. I am highly motivated, adaptable, and always eager to learn emerging technologies. I am currently seeking internships, project collaborations, and learning opportunities where I can grow as a developer and contribute meaningfully to innovative teams.",
+      "skills": {
+        "technical": [
+          "supabase",
+          "Back-end Operations",
+          "Generative AI",
+          "Azure",
+          "Python",
+          "Web Development"
+        ],
+        "soft": [],
+        "tools": []
+      },
+      "experience": [
+        {
+          "title": "Tech Volunteer",
+          "company": "Open Source Quest",
+          "duration": "January 2026 - Present (3 months)",
+          "description": "Gained hands-on experience with Microsoft Azure for AI and data science applications, learned end-to-end AI workflows, cloud deployment concepts, and ethical AI practices, completed structured learning milestones independently, strengthening problem-solving skills, and built a strong foundation in cloud-based AI solutions"
+        },
+        {
+          "title": "Internship Trainee",
+          "company": "Microsoft initiatives",
+          "duration": "May 2025 - June 2025 (2 months)",
+          "description": "Gained hands-on experience with Microsoft Azure for AI and data science applications, learned end-to-end AI workflows, cloud deployment concepts, and ethical AI practices"
+        },
+        {
+          "title": "Internship Trainee",
+          "company": "TeckSaksham",
+          "duration": "February 2025 - March 2025 (2 months)",
+          "description": "Participated in AI: Transformative Learning, a CSR initiative by Microsoft & SAP, implemented by Edunet Foundation, designed and implemented a Personal Fitness Tracker using Python, and strengthened understanding of data handling, logic building, and real-world problem-solving using AI concepts"
+        }
+      ],
+      "education": [
+        {
+          "degree": "Computer science and engineering",
+          "institution": "Sree Buddha College of Engineering, Pattoor P.O., Nooranad, Alappuzha",
+          "years": "2023 - 2027",
+          "grade": null
+        },
+        {
+          "degree": "Higher secondary education",
+          "institution": "GPHSS Kulanada",
+          "years": "March 2021 - March 2023",
+          "grade": null
+        },
+        {
+          "degree": "High school",
+          "institution": "St.johns school keerukuzhy",
+          "years": null,
+          "grade": null
+        }
+      ],
+      "projects": []
+    },
+    "github_data": {
+      "profile": {
+        "login": "Abinphilipanil",
+        "name": null,
+        "bio": null,
+        "location": null,
+        "blog": null,
+        "company": null,
+        "email": null,
+        "followers": 0,
+        "following": 1,
+        "publicRepos": 23,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/149844177?v=4",
+        "htmlUrl": "https://github.com/Abinphilipanil"
+      },
+      "topRepositories": [
+        {
+          "name": "AR-10",
+          "htmlUrl": "https://github.com/Abinphilipanil/AR-10",
+          "description": null,
+          "language": "JavaScript",
+          "stars": 0,
+          "forks": 1,
+          "topics": [],
+          "updatedAt": "2026-03-17T14:58:29Z"
+        },
+        {
+          "name": "AI-based-ATS",
+          "htmlUrl": "https://github.com/Abinphilipanil/AI-based-ATS",
+          "description": "An Applicant Tracking System is recruitment software that:  Parses and scores resumes based on job requirements  Filters candidates using keyword matching  Ranks applicants before human review ",
+          "language": "Python",
+          "stars": 0,
+          "forks": 0,
+          "topics": [],
+          "updatedAt": "2026-02-24T13:35:30Z"
+        },
+        {
+          "name": "automatedresume-10",
+          "htmlUrl": "https://github.com/Abinphilipanil/automatedresume-10",
+          "description": null,
+          "language": "JavaScript",
+          "stars": 0,
+          "forks": 0,
+          "topics": [],
+          "updatedAt": "2026-02-22T02:02:16Z"
+        },
+        {
+          "name": "Firstgift",
+          "htmlUrl": "https://github.com/Abinphilipanil/Firstgift",
+          "description": null,
+          "language": "JavaScript",
+          "stars": 0,
+          "forks": 0,
+          "topics": [],
+          "updatedAt": "2026-02-13T12:35:26Z"
+        },
+        {
+          "name": "Password-generator",
+          "htmlUrl": "https://github.com/Abinphilipanil/Password-generator",
+          "description": null,
+          "language": "Python",
+          "stars": 0,
+          "forks": 0,
+          "topics": [],
+          "updatedAt": "2025-12-09T15:58:42Z"
+        },
+        {
+          "name": "To-Do-GUI",
+          "htmlUrl": "https://github.com/Abinphilipanil/To-Do-GUI",
+          "description": null,
+          "language": "Python",
+          "stars": 0,
+          "forks": 0,
+          "topics": [],
+          "updatedAt": "2025-12-08T10:27:50Z"
+        },
+        {
+          "name": "csrf-scanner",
+          "htmlUrl": "https://github.com/Abinphilipanil/csrf-scanner",
+          "description": "A Python-based tool to scan web forms for missing CSRF protection, including a demo HTML page illustrating CSRF risks.",
+          "language": "Python",
+          "stars": 0,
+          "forks": 0,
+          "topics": [],
+          "updatedAt": "2025-11-28T14:48:04Z"
+        },
+        {
+          "name": "IMDB-mulearn",
+          "htmlUrl": "https://github.com/Abinphilipanil/IMDB-mulearn",
+          "description": null,
+          "language": "Python",
+          "stars": 0,
+          "forks": 0,
+          "topics": [],
+          "updatedAt": "2025-08-31T01:45:20Z"
+        },
+        {
+          "name": "AI-INTRO",
+          "htmlUrl": "https://github.com/Abinphilipanil/AI-INTRO",
+          "description": null,
+          "language": null,
+          "stars": 0,
+          "forks": 0,
+          "topics": [],
+          "updatedAt": "2025-08-28T02:59:08Z"
+        },
+        {
+          "name": "Space-app_webpage",
+          "htmlUrl": "https://github.com/Abinphilipanil/Space-app_webpage",
+          "description": null,
+          "language": "HTML",
+          "stars": 0,
+          "forks": 0,
+          "topics": [],
+          "updatedAt": "2025-08-24T13:37:23Z"
+        }
+      ],
+      "topLanguages": [
+        "Python",
+        "HTML",
+        "JavaScript"
+      ],
+      "totalStars": 0
+    },
+    "generated_resume_markdown": "# ABIN PHILIP ANIL\nabinanilphilip@gmail.com | 9497464373 | www.linkedin.com/in/ | abinphilipanil.github.io/ | \n\n## Summary\nI am a passionate Computer Science Engineering undergraduate with a strong interest in software development, artificial intelligence, cloud computing, and cybersecurity. I enjoy transforming ideas into real-world solutions through clean, efficient code and hands-on projects.\n\n## Experience\n- Tech Volunteer at Open Source Quest (January 2026 - Present)\n  * Gained hands-on experience with Microsoft Azure for AI and data science applications\n  * Learned end-to-end AI workflows, cloud deployment concepts, and ethical AI practices\n  * Completed structured learning milestones independently, strengthening problem-solving skills\n- Internship Trainee at Microsoft initiatives (May 2025 - June 2025)\n  * Gained hands-on experience with Microsoft Azure for AI and data science applications\n  * Learned end-to-end AI workflows, cloud deployment concepts, and ethical AI practices\n- Internship Trainee at TeckSaksham (February 2025 - March 2025)\n  * Participated in AI: Transformative Learning, a CSR initiative by Microsoft & SAP\n  * Designed and implemented a Personal Fitness Tracker using Python\n  * Strengthened understanding of data handling, logic building, and real-world problem-solving using AI concepts\n\n## Projects\n- AI-based-ATS: An Applicant Tracking System that parses and scores resumes based on job requirements, filters candidates using keyword matching, and ranks applicants before human review (Python)\n- csrf-scanner: A Python-based tool to scan web forms for missing CSRF protection\n- Password-generator: A Python-based password generator\n- To-Do-GUI: A Python-based To-Do list GUI application\n\n## Skills\n- supabase\n- Back-end Operations\n- Generative AI\n- Azure\n- Python\n- Web Development\n\n## Education\n- Computer Science and Engineering, Sree Buddha College of Engineering (2023 - 2027), CGPA: 9.40\n- Higher secondary education, GPHSS Kulanada (2021 - 2023), Percentage: 97.6%\n- High school, St.johns school keerukuzhy (2020 - 2021), Percentage: 94.6%",
+    "ats_score": 35,
+    "ats_analysis": {
+      "score": 35,
+      "matchLevel": "Poor",
+      "skillsPresent": [
+        "python"
+      ],
+      "skillsMissing": [],
+      "missingKeywords": [],
+      "conceptualGaps": [
+        "No major conceptual gaps detected in sampled semantic space."
+      ],
+      "strengths": [
+        "Global semantic similarity is 26.8%.",
+        "Context sentence coverage across job requirements is 0.0%.",
+        "Strong term overlap includes: python."
+      ],
+      "weaknesses": [
+        "No critical structural weaknesses were detected."
+      ],
+      "gameChangerTips": [
+        "Tune section ordering and top 3 bullets to match the role's top priorities."
+      ],
+      "bertMetadata": {
+        "model": "Xenova/all-MiniLM-L6-v2",
+        "analysisType": "Bidirectional embedding similarity + sentence coverage",
+        "usedFallback": false
+      }
+    },
+    "created_at": "2026-04-05T00:35:41.738Z"
+  },
+  {
+    "id": "local-resume-1775351748518-z2g8ipk1",
+    "linkedin_url": null,
+    "github_url": "https://github.com/Abinphilipanil",
+    "job_description": "job role as java developer",
+    "linkedin_data": {
+      "name": "ABIN PHILIP ANIL",
+      "headline": "Computer Science Undergrad ’27 | AI & Cloud Enthusiast | Aspiring Software Engineer | Azure • Python • Web Development",
+      "email": "abinanilphilip@gmail.com",
+      "phone": "9497464373",
+      "location": "Kozhenchery, Kerala, India",
+      "website": "abinphilipanil.github.io/",
+      "linkedin_url": "www.linkedin.com/in/abinphilipanila1b007",
+      "summary": "I am a passionate Computer Science Engineering undergraduate with a strong interest in software development, artificial intelligence, cloud computing, and cybersecurity. I enjoy transforming ideas into real-world solutions through clean, efficient code and hands-on projects. My learning journey includes practical experience with Microsoft Azure, AI workflows, and Python-based applications. Through internships and self-driven learning, I have developed a solid foundation in AI concepts, cloud deployment, front-end development, and ethical technology practices. I am highly motivated, adaptable, and always eager to learn emerging technologies. I am currently seeking internships, project collaborations, and learning opportunities where I can grow as a developer and contribute meaningfully to innovative teams.",
+      "skills": {
+        "technical": [
+          "Azure",
+          "Python",
+          "Web Development",
+          "Supabase",
+          "Back-end Operations",
+          "Generative AI",
+          "Java"
+        ],
+        "soft": [],
+        "tools": []
+      },
+      "experience": [
+        {
+          "title": "Tech Volunteer",
+          "company": "Open Source Quest",
+          "duration": "January 2026 - Present (3 months)",
+          "description": "Gained hands-on experience with Microsoft Azure for AI and data science applications, learned end-to-end AI workflows, cloud deployment concepts, and ethical AI practices, completed structured learning milestones independently, strengthening problem-solving skills, and built a strong foundation in cloud-based AI solutions"
+        },
+        {
+          "title": "Internship Trainee",
+          "company": "Microsoft initiatives",
+          "duration": "May 2025 - June 2025 (2 months)",
+          "description": "Gained hands-on experience with Microsoft Azure for AI and data science applications, learned end-to-end AI workflows, cloud deployment concepts, and ethical AI practices"
+        },
+        {
+          "title": "Internship Trainee",
+          "company": "TeckSaksham",
+          "duration": "February 2025 - March 2025 (2 months)",
+          "description": "Participated in AI: Transformative Learning, a CSR initiative by Microsoft & SAP, implemented by Edunet Foundation, designed and implemented a Personal Fitness Tracker using Python, and strengthened understanding of data handling, logic building, and real-world problem-solving using AI concepts"
+        }
+      ],
+      "education": [
+        {
+          "degree": "Computer Science and Engineering",
+          "institution": "Sree Buddha College of Engineering",
+          "years": "2023 - 2027",
+          "grade": null
+        },
+        {
+          "degree": "Higher Secondary Education",
+          "institution": "GPHSS Kulanada",
+          "years": "March 2021 - March 2023",
+          "grade": null
+        },
+        {
+          "degree": "High School",
+          "institution": "St.johns school keerukuzhy",
+          "years": null,
+          "grade": null
+        }
+      ],
+      "projects": []
+    },
+    "github_data": {
+      "profile": {
+        "login": "Abinphilipanil",
+        "name": null,
+        "bio": null,
+        "location": null,
+        "blog": null,
+        "company": null,
+        "email": null,
+        "followers": 0,
+        "following": 1,
+        "publicRepos": 23,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/149844177?v=4",
+        "htmlUrl": "https://github.com/Abinphilipanil"
+      },
+      "topRepositories": [
+        {
+          "name": "AR-10",
+          "htmlUrl": "https://github.com/Abinphilipanil/AR-10",
+          "description": null,
+          "language": "JavaScript",
+          "stars": 0,
+          "forks": 1,
+          "topics": [],
+          "updatedAt": "2026-03-17T14:58:29Z"
+        },
+        {
+          "name": "AI-based-ATS",
+          "htmlUrl": "https://github.com/Abinphilipanil/AI-based-ATS",
+          "description": "An Applicant Tracking System is recruitment software that:  Parses and scores resumes based on job requirements  Filters candidates using keyword matching  Ranks applicants before human review ",
+          "language": "Python",
+          "stars": 0,
+          "forks": 0,
+          "topics": [],
+          "updatedAt": "2026-02-24T13:35:30Z"
+        },
+        {
+          "name": "automatedresume-10",
+          "htmlUrl": "https://github.com/Abinphilipanil/automatedresume-10",
+          "description": null,
+          "language": "JavaScript",
+          "stars": 0,
+          "forks": 0,
+          "topics": [],
+          "updatedAt": "2026-02-22T02:02:16Z"
+        },
+        {
+          "name": "Firstgift",
+          "htmlUrl": "https://github.com/Abinphilipanil/Firstgift",
+          "description": null,
+          "language": "JavaScript",
+          "stars": 0,
+          "forks": 0,
+          "topics": [],
+          "updatedAt": "2026-02-13T12:35:26Z"
+        },
+        {
+          "name": "Password-generator",
+          "htmlUrl": "https://github.com/Abinphilipanil/Password-generator",
+          "description": null,
+          "language": "Python",
+          "stars": 0,
+          "forks": 0,
+          "topics": [],
+          "updatedAt": "2025-12-09T15:58:42Z"
+        },
+        {
+          "name": "To-Do-GUI",
+          "htmlUrl": "https://github.com/Abinphilipanil/To-Do-GUI",
+          "description": null,
+          "language": "Python",
+          "stars": 0,
+          "forks": 0,
+          "topics": [],
+          "updatedAt": "2025-12-08T10:27:50Z"
+        },
+        {
+          "name": "csrf-scanner",
+          "htmlUrl": "https://github.com/Abinphilipanil/csrf-scanner",
+          "description": "A Python-based tool to scan web forms for missing CSRF protection, including a demo HTML page illustrating CSRF risks.",
+          "language": "Python",
+          "stars": 0,
+          "forks": 0,
+          "topics": [],
+          "updatedAt": "2025-11-28T14:48:04Z"
+        },
+        {
+          "name": "IMDB-mulearn",
+          "htmlUrl": "https://github.com/Abinphilipanil/IMDB-mulearn",
+          "description": null,
+          "language": "Python",
+          "stars": 0,
+          "forks": 0,
+          "topics": [],
+          "updatedAt": "2025-08-31T01:45:20Z"
+        },
+        {
+          "name": "AI-INTRO",
+          "htmlUrl": "https://github.com/Abinphilipanil/AI-INTRO",
+          "description": null,
+          "language": null,
+          "stars": 0,
+          "forks": 0,
+          "topics": [],
+          "updatedAt": "2025-08-28T02:59:08Z"
+        },
+        {
+          "name": "Space-app_webpage",
+          "htmlUrl": "https://github.com/Abinphilipanil/Space-app_webpage",
+          "description": null,
+          "language": "HTML",
+          "stars": 0,
+          "forks": 0,
+          "topics": [],
+          "updatedAt": "2025-08-24T13:37:23Z"
+        }
+      ],
+      "topLanguages": [
+        "Python",
+        "HTML",
+        "JavaScript"
+      ],
+      "totalStars": 0
+    },
+    "generated_resume_markdown": "# ABIN PHILIP ANIL\nabinanilphilip@gmail.com | 9497464373 | www.linkedin.com/in/abinphilipanila1b007 | abinphilipanil.github.io/ | \n\n## Summary\nI am a passionate Computer Science Engineering undergraduate with a strong interest in software development, artificial intelligence, cloud computing, and cybersecurity. I enjoy transforming ideas into real-world solutions through clean, efficient code and hands-on projects. My learning journey includes practical experience with Microsoft Azure, AI workflows, and Python-based applications.\n\n## Experience\n- Tech Volunteer at Open Source Quest (January 2026 - Present)\n  * Gained hands-on experience with Microsoft Azure for AI and data science applications\n  * Learned end-to-end AI workflows, cloud deployment concepts, and ethical AI practices\n  * Completed structured learning milestones independently, strengthening problem-solving skills\n- Internship Trainee at Microsoft initiatives (May 2025 - June 2025)\n  * Gained hands-on experience with Microsoft Azure for AI and data science applications\n  * Learned end-to-end AI workflows, cloud deployment concepts, and ethical AI practices\n- Internship Trainee at TeckSaksham (February 2025 - March 2025)\n  * Participated in AI: Transformative Learning, a CSR initiative by Microsoft & SAP\n  * Designed and implemented a Personal Fitness Tracker using Python\n  * Strengthened understanding of data handling, logic building, and real-world problem-solving using AI concepts\n\n## Projects\n- AI-based-ATS: An Applicant Tracking System that parses and scores resumes based on job requirements, filters candidates using keyword matching, and ranks applicants before human review (Python)\n- csrf-scanner: A Python-based tool to scan web forms for missing CSRF protection, including a demo HTML page illustrating CSRF risks (Python)\n- Password-generator: A Python-based password generator\n- To-Do-GUI: A Python-based To-Do list GUI application\n- Space-app_webpage: A web page built using HTML\n\n## Skills\n- Azure\n- Python\n- Web Development\n- Supabase\n- Back-end Operations\n- Generative AI\n- Java\n\n## Education\n- Computer Science and Engineering, Sree Buddha College of Engineering (2023 - 2027), CGPA: 9.40\n- Higher Secondary Education, GPHSS Kulanada (2021 - 2023), Percentage: 97.6%\n- High School, St.johns school keerukuzhy (2020 - 2021), Percentage: 94.6%\n\n## Certificates\n- Coursera certificate on Introduction to AI\n- Coursera certificate on Intro to Supabase\n- Coursera certificate on Introduction to Generative AI\n- Udemy Python Mastery: The Complete Web Programming Course\n- NPTEL certificate on Programming in Java\n- GATE 2026 Qualified",
+    "ats_score": 24,
+    "ats_analysis": {
+      "score": 24,
+      "matchLevel": "Poor",
+      "skillsPresent": [
+        "java"
+      ],
+      "skillsMissing": [
+        "developer"
+      ],
+      "missingKeywords": [
+        "developer"
+      ],
+      "conceptualGaps": [
+        "Missing technical alignment around: developer."
+      ],
+      "strengths": [
+        "Global semantic similarity is 22.2%.",
+        "Context sentence coverage across job requirements is 0.0%.",
+        "Strong term overlap includes: java."
+      ],
+      "weaknesses": [
+        "Several high-priority job requirements are missing or weakly represented.",
+        "Keyword alignment is below ATS-safe range for this job description."
+      ],
+      "gameChangerTips": [
+        "Add resume evidence for these requirements first: developer.",
+        "Mirror exact role language in project and experience bullets where truthful."
+      ],
+      "bertMetadata": {
+        "model": "Xenova/all-MiniLM-L6-v2",
+        "analysisType": "Bidirectional embedding similarity + sentence coverage",
+        "usedFallback": false
+      }
+    },
+    "created_at": "2026-04-05T01:15:48.518Z"
+  }
+]

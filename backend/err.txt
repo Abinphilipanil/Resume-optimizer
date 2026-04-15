@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\MINI PROJECT\Code\code\backend\node_modules\@supabase\supabase-js\src\lib\helpers.ts:86
+    throw new Error('supabaseUrl is required.')
+          ^
+
+
+Error: supabaseUrl is required.
+    at validateSupabaseUrl (C:\Users\HP\Desktop\MINI PROJECT\Code\code\backend\node_modules\@supabase\supabase-js\src\lib\helpers.ts:86:11)
+    at new SupabaseClient (C:\Users\HP\Desktop\MINI PROJECT\Code\code\backend\node_modules\@supabase\supabase-js\src\SupabaseClient.ts:117:21)
+    at createClient (C:\Users\HP\Desktop\MINI PROJECT\Code\code\backend\node_modules\@supabase\supabase-js\src\index.ts:60:10)
+    at <anonymous> (C:\Users\HP\Desktop\MINI PROJECT\Code\code\backend\src\config\supabase.ts:9:25)
+    at ModuleJob.run (node:internal/modules/esm/module_job:329:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:644:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:117:5)
+
+Node.js v22.17.1
