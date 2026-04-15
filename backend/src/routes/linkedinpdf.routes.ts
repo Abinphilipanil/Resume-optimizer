@@ -2,13 +2,14 @@ import express, { type Request, type Response } from "express"
 import multer from "multer"
 import { createRequire } from "module"
 const require = createRequire(import.meta.url)
-const pdfParse = require("pdf-parse")
+const { PDFParse } = require("pdf-parse")
 import { askLLM } from "../services/llm.service.js"
 import {
   getLatestParserRecord,
   getParserRecordById,
   saveParserRecord,
 } from "../services/parser-store.service.js"
+import { supabase } from "../config/supabase.js"
 
 const router = express.Router()
 
@@ -22,6 +23,7 @@ router.post("/parse-pdf", upload.single("file"), async (req: Request, res: Respo
     }
 
     console.log(`Parsing LinkedIn PDF: ${req.file.originalname}`)
+
 
     // Extract raw text from PDF using PDFParse class (v2.x)
     const parser = new PDFParse({ data: req.file.buffer })
@@ -70,15 +72,18 @@ ${rawText.slice(0, 12000)}
     let parsedData: Record<string, any> = {}
     try {
       // Strip any markdown fences if Gemini added them
-      const cleaned = geminiResponse.replace(/```json\n?/g, "").replace(/```\n?/g, "").trim()
+      const cleaned = llmResponse.replace(/```json\n?/g, "").replace(/```\n?/g, "").trim()
       parsedData = JSON.parse(cleaned)
     } catch (parseErr) {
-      console.error("Gemini JSON parse failed:", parseErr)
+      console.error("LLM JSON parse failed:", parseErr)
       // Return raw text at minimum
       parsedData = { name: "", headline: "", rawText: rawText.slice(0, 3000) }
     }
 
     // Store in Supabase
+    if (!supabase) {
+      return res.status(500).json({ error: "Supabase client not initialized" })
+    }
     try {
       await supabase.from("linkedin_profiles").insert([
         {
