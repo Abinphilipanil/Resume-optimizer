@@ -68,7 +68,7 @@ function Home() {
       <div className="home-content">
         {/* Theme toggle removed as requested */}
         <SvgFrame />
-        <h1>AR-10</h1>
+        <h1>Resume Optimizer</h1>
         <p className="home-description">
           Craft professional, ATS-optimized resumes in seconds with our advanced neural engine and real-time profile integration.
         </p>
