@@ -2,6 +2,7 @@ import { useEffect, useState } from "react"
 import { useNavigate } from "react-router-dom"
 import ReactMarkdown from "react-markdown"
 import Chatbot from "./Chatbot"
+import { apiUrl } from "../api"
 
 function normalizeResumeHeader(text) {
   const lines = String(text || "").split(/\r?\n/)
@@ -104,11 +105,6 @@ function Success() {
   const [editStatus, setEditStatus] = useState("")
   const [recheckingAts, setRecheckingAts] = useState(false)
 
-  const API_BASE =
-    import.meta.env.MODE === "development"
-      ? ""
-      : (import.meta.env.VITE_API_URL || "").replace(/\/$/, "")
-
   useEffect(() => {
     const savedResume = localStorage.getItem("generatedResume") || localStorage.getItem("importedResumeText")
     const savedResumeLatex = localStorage.getItem("generatedResumeLatex") || ""
@@ -186,7 +182,7 @@ function Success() {
     setEditStatus("")
 
     try {
-      const response = await fetch(`${API_BASE}/api/resume/analyze-text`, {
+      const response = await fetch(apiUrl("/api/resume/analyze-text"), {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({

@@ -1,5 +1,6 @@
 import { useRef, useState } from "react";
 import { useNavigate } from "react-router-dom";
+import { apiUrl } from "../api";
 
 function ImportResume() {
   const navigate = useNavigate();
@@ -32,7 +33,7 @@ function ImportResume() {
       formData.append("resume", file);
       formData.append("jobDesc", jobDesc.trim());
 
-      const res = await fetch("/api/resume/upload", {
+      const res = await fetch(apiUrl("/api/resume/upload"), {
         method: "POST",
         body: formData,
       });

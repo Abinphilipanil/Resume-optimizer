@@ -2,6 +2,7 @@ import { useEffect, useRef, useState } from "react"
 import ReactMarkdown from "react-markdown"
 import remarkGfm from "remark-gfm"
 import JarvisToggle from "../components/JarvisToggle"
+import { apiUrl } from "../api"
 
 const INITIAL_BOT_MESSAGE = {
   sender: "bot",
@@ -16,13 +17,6 @@ export default function Chatbot({ inline = false }) {
   const [error, setError] = useState("")
 
   const endRef = useRef(null)
-
-  const API_BASE =
-    import.meta.env.MODE === "development"
-      ? ""
-      : (import.meta.env.VITE_API_URL || "").replace(/\/$/, "")
-
-  const CHAT_URL = `${API_BASE}/api/chat`
 
   useEffect(() => {
     if (inline) {
@@ -63,7 +57,7 @@ export default function Chatbot({ inline = false }) {
         sessionStorage.getItem("jobDesc") ||
         ""
 
-      const res = await fetch(CHAT_URL, {
+      const res = await fetch(apiUrl("/api/chat"), {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({

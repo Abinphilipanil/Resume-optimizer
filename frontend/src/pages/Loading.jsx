@@ -1,6 +1,7 @@
 import { useEffect, useState, useRef } from "react";
 import { useNavigate, useLocation } from "react-router-dom";
 import UiverseLoader from "../components/UiverseLoader";
+import { apiUrl } from "../api";
 
 function Loading() {
   const navigate = useNavigate();
@@ -52,7 +53,7 @@ if (!github || !jobDesc) {
           const linkedInFormData = new FormData();
           linkedInFormData.append("file", linkedinFile);
 
-          const linkedinRes = await fetch("/api/linkedin-pdf/parse-pdf", {
+          const linkedinRes = await fetch(apiUrl("/api/linkedin-pdf/parse-pdf"), {
             method: "POST",
             body: linkedInFormData,
           });
@@ -77,7 +78,7 @@ if (!github || !jobDesc) {
           const resumeFormData = new FormData();
           resumeFormData.append("resume", previousResumeFile);
 
-          const resumeRes = await fetch("/api/resume/upload", {
+          const resumeRes = await fetch(apiUrl("/api/resume/upload"), {
             method: "POST",
             body: resumeFormData,
           });
@@ -103,7 +104,7 @@ if (!github || !jobDesc) {
           ? { ...selectedTemplate, category: selectedTemplate.category || effectiveFormat }
           : null;
 
-        const buildResponse = await fetch("/api/builder/build-from-links", {
+        const buildResponse = await fetch(apiUrl("/api/builder/build-from-links"), {
           method: "POST",
           headers: { "Content-Type": "application/json" },
           body: JSON.stringify({
